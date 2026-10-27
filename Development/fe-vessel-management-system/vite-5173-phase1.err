@@ -1,0 +1,2 @@
+[2m10.43.10[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31merror while updating dependencies:
+Error: EBUSY: resource busy or locked, rename 'C:\Armada Project\ArchiveVessel\Development\fe-vessel-management-system\node_modules\.vite\deps_temp_8e7389de' -> 'C:\Armada Project\ArchiveVessel\Development\fe-vessel-management-system\node_modules\.vite\deps'[39m
